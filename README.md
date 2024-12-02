@@ -131,23 +131,3 @@ Cement_Strength_Prediction/
    ```bash
    python app/main.py
    ```
-4. Use Postman to send prediction requests or access the UI endpoint.
-
----
-
-## Key Features
-- Comprehensive data validation pipeline.
-- Dynamic clustering for optimized model performance.
-- Scalable architecture for incremental data updates.
-- Deployment-ready with Pivotal Web Services integration.
-
----
-
-## Future Enhancements
-- Add support for more advanced regression algorithms.
-- Integrate visualization tools for better interpretability.
-- Develop an API for easier data submission and retrieval.
-
----
-
-Feel free to refine this as per your specific requirements or preferences!
