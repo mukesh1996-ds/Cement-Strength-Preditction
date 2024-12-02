@@ -32,6 +32,10 @@ The dataset includes the following features:
 
 ## Workflow
 
+Below is the end-to-end flow of the project:
+
+Workflow_Image/WorkFLow.png
+
 ### Data Validation
 1. **File Validation:**
    - **Name Validation**: Ensures filenames match the schema.
