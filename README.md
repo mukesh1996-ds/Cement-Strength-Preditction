@@ -33,12 +33,8 @@ The dataset includes the following features:
 ## Workflow
 
 Below is the end-to-end flow of the project:
-D:\Data Science\Cement-Strength-Preditction\Workflow_Image\WorkFLow.png
 
-<<<<<<< HEAD
 
-=======
->>>>>>> d539b10cc153a71039e3bcf7add6d88da2fd0649
 
 ### Data Validation
 1. **File Validation:**
