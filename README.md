@@ -33,12 +33,8 @@ The dataset includes the following features:
 ## Workflow
 
 Below is the end-to-end flow of the project:
-D:\Data Science\Cement-Strength-Preditction\Workflow_Image\WorkFLow.png
 
-<<<<<<< HEAD
-
-=======
->>>>>>> d539b10cc153a71039e3bcf7add6d88da2fd0649
+![screenshot](https://github.com/mukesh1996-ds/Cement-Strength-Preditction/blob/main/Workflow_Image/WorkFLow.png)
 
 ### Data Validation
 1. **File Validation:**
@@ -135,23 +131,3 @@ Cement_Strength_Prediction/
    ```bash
    python app/main.py
    ```
-4. Use Postman to send prediction requests or access the UI endpoint.
-
----
-
-## Key Features
-- Comprehensive data validation pipeline.
-- Dynamic clustering for optimized model performance.
-- Scalable architecture for incremental data updates.
-- Deployment-ready with Pivotal Web Services integration.
-
----
-
-## Future Enhancements
-- Add support for more advanced regression algorithms.
-- Integrate visualization tools for better interpretability.
-- Develop an API for easier data submission and retrieval.
-
----
-
-Feel free to refine this as per your specific requirements or preferences!
